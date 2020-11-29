@@ -4,6 +4,7 @@
 
 /* Start purging... */
 @tailwind components;
+
 /* Stop purging. */
 
 html,
@@ -18,6 +19,7 @@ body {
 
 /* Start purging... */
 @tailwind utilities;
+
 /* Stop purging. */
 
 /* Your own custom utilities */
